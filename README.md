@@ -13,7 +13,6 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
 ## Data Cleaning
 ```
 import pandas as pd
@@ -133,5 +132,4 @@ df1
 ![image](https://github.com/user-attachments/assets/42c39502-2e20-47ad-98f9-1c027c8191ec)
 
 # Result
-          <<include your Result here>>
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
